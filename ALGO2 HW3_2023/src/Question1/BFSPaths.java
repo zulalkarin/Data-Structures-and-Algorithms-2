@@ -1,16 +1,5 @@
 package Question1;
 
-//-------------------------------------------------------------------------
-//Title: Driver Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 3 
-//Question: 1
-//Description: this class finds the the shortest path between the source vertex to every other vertices. 
-//----------------------------------------------------------------------------------
-
-
 import java.util.LinkedList;
 import java.util.Queue;
 import java.util.Stack;
