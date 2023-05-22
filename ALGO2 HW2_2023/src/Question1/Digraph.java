@@ -1,13 +1,5 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: Digraph Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 2 
-//Question: 1
-//Description:  This class create digraph. 
-//----------------------------------------------------------------------------------
+
 
 public class Digraph {
 
