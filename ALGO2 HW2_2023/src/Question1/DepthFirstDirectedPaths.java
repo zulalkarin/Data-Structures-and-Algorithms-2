@@ -1,13 +1,5 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: DepthFirstDirectedPaths Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 2 
-//Question: 1
-//Description: I checcked reachability of the vertices with this class 
-//----------------------------------------------------------------------------------
+
 
 import java.util.ArrayList;
 import java.util.Stack;
