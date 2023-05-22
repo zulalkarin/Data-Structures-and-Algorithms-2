@@ -1,13 +1,4 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: MST Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 3 
-//Question: 1
-//Description: this class apply Kruskal minimum spanning tree to edge weighted graph 
-//----------------------------------------------------------------------------------
 
 import java.util.Arrays;
 import java.util.LinkedList;
