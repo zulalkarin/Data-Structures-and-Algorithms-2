@@ -1,13 +1,4 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: WeightedGraph Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 3 
-//Question: 1
-//Description: this class creates edge weighted graphs . 
-//----------------------------------------------------------------------------------
 
 
 import java.util.LinkedList;
