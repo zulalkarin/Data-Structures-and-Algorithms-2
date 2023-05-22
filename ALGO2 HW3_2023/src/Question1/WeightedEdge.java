@@ -1,14 +1,5 @@
 package Question1;
 
-//-------------------------------------------------------------------------
-//Title: WeightedEdge Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 3 
-//Question: 1
-//Description: this class initializes weighted edges between vertices . 
-//----------------------------------------------------------------------------------
 
 
 public class WeightedEdge implements Comparable<WeightedEdge> {
