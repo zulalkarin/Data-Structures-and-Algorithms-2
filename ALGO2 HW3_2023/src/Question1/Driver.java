@@ -1,13 +1,4 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: Driver Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 3 
-//Question: 1
-//Description: this class gets inputs and creates edge weighted graph and MST. 
-//----------------------------------------------------------------------------------
 
 
 import java.util.ArrayList;
