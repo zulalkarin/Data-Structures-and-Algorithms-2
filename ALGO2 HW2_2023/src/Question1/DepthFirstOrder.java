@@ -1,13 +1,4 @@
 package Question1;
-//-------------------------------------------------------------------------
-//Title: DepthFirstOrder Class
-//Author: Çaðla Köse
-//ID: 10480227330
-//Section: 02
-//Assignment: 2 
-//Question: 1
-//Description: this class make topological order 
-//----------------------------------------------------------------------------------
 
 import java.util.ArrayList;
 import java.util.LinkedList;
